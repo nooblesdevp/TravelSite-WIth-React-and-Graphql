@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/img1.jpg",
+    "alt": "Bali",
+    "name": "Bali",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/img2.jpg",
+    "alt": "Bali",
+    "name": "Bali",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/img3.jpg",
+    "alt": "Bali",
+    "name": "Bali",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/img1.jpg",
+    "alt": "Bali",
+    "name": "Bali",
+    "button": "View Destination"
+  }
+]
